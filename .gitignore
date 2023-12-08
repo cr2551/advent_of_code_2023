@@ -1,2 +1,7 @@
 */input.txt
 */*.txt
+*/*.class
+*/__pycache__
+input
+outside.py
+example
